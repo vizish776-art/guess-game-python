@@ -1,17 +1,28 @@
-# guess-game-python
-This is my first Python project.
+# Guess Game Python
 
-## Description
-A simple number guessing game where the player tries to guess a random number with limited attempts.
+A simple number guessing game written in Python.
 
 ## Features
-- Random number generation
-- Difficulty levels
-- Limited attempts
-- Simple game logic
+
+* Multiple difficulty levels
+* Score system
+* Best score saving
+* Input validation
+* In-game shop
+* Replay option
+
+## How to Run
+
+```bash
+python main.py
+```
 
 ## Technologies
-- Python 3
+
+* Python 3
+* Git
+* GitHub
 
 ## Author
-Student from Tajikistan learning programming for future studies in Computer Science.
+
+Created as a learning project.
